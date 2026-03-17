@@ -16,4 +16,4 @@ Creator : Fabien Conéjéro - 2023
 
 https://github.com/madjeek-web
 
-Product : Sixième Sens
+Product : Sixth-Sense
