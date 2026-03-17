@@ -1,6 +1,6 @@
 # Sixth-Sense
 
-Sixth Sense - Product sold and developed by: Convergence - Human And Technology
+Sixth Sense - Product sold and developed by : Convergence - Human And Technology
 © 2023 Convergence - Human & Technology. All rights reserved.
 
 This software is proprietary and confidential. Unauthorized use is prohibited.
