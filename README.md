@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Convergence-Human-And-Technology/Sixth-Sense/raw/main/Sixth-Sense_cover_01.png" alt="Visitor Lens cover 1 png image" width="100%" height="100%">
+<img src="https://github.com/Convergence-Human-And-Technology/Sixth-Sense/raw/main/Sixth-Sense_cover_01.png" alt="Sixth Sense cover 1 Convergence" width="100%" height="100%">
 </p>
 
 # Sixth Sense
@@ -17,3 +17,9 @@ Creator : Fabien Conéjéro - 2023
 https://github.com/madjeek-web
 
 Product : Sixth Sense
+
+#
+
+. LinkedIn Page : https://www.linkedin.com/company/convergence-organization
+
+. Facebook : https://www.facebook.com/people/Convergence-Human-And-Technology/61578483081894
