@@ -10,7 +10,7 @@ Sixth Sense - Product sold and developed by : Convergence
 
 This software is proprietary and confidential. Unauthorized use is prohibited.
 
-For licensing, contact : encrypt-free.74.mq2fl@aleeeas.com
+For licensing, contact : convergence-tech@proton.me
 
 Creator : Fabien Conéjéro - 2023 
 
