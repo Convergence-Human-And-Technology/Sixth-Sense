@@ -1,3 +1,5 @@
+![Convergence Cover](https://raw.githubusercontent.com/Convergence-Human-And-Technology/Sixth-Sense/main/coverl_Sixth_Sense_HT.jpg)
+
 <p align="center">
 <img src="https://github.com/Convergence-Human-And-Technology/Sixth-Sense/raw/main/Sixth-Sense_cover_01.png" alt="Sixth Sense cover 1 Convergence" width="100%" height="100%">
 </p>
